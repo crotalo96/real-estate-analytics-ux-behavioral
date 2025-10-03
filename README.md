@@ -60,19 +60,6 @@ Aplicando **Behavioral Economics + UX**:
 - **Agentes recomendados con sello de confianza**.  
 - **Panel lateral de insights rápidos** (“📉 Propiedad 20% más barata que su zona”).  
 
-### 🎨 UI / Estilo
-- Colores:  
-  - Verde → ganga / subvalorado  
-  - Azul → premium  
-  - Naranja → urgencia / escasez  
-- Componentes: tarjetas, mapas, carruseles, notificaciones.  
-- Tipografía clara y jerárquica.  
-
-### ⚡ Microinteracciones
-- Hover resalta % de subvaloración.  
-- Notificaciones push cuando surge una nueva oportunidad.  
-- Flujo tipo _wizard_ para guiar a inversionistas nuevos.  
-
 ---
 
 ## 📂 Datasets Utilizados
@@ -96,7 +83,7 @@ Aplicando **Behavioral Economics + UX**:
 
 ## 💻 Tecnologías
 - Python (Pandas, Matplotlib, Seaborn, Plotly)  
-- Dashboard UX (Figma / React / Streamlit)  
+- Dashboard (Power Bi)  
 - Fuentes de datos: Catastro, datasets propios, portales inmobiliarios  
 
 ---
@@ -108,10 +95,7 @@ Aplicando **Behavioral Economics + UX**:
 
 ---
 
-## 📌 Próximos Pasos
-- Construir **MVP de dashboard interactivo**.  
-- Integrar sistema de alertas en tiempo real (notificaciones de nuevas oportunidades).  
-- Validar con inversionistas y refinar con pruebas de usabilidad.  
+
 
 ---
 
