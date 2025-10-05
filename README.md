@@ -31,7 +31,7 @@ Los inversionistas necesitan identificar rápidamente:
 ## 🔍 Metodología: Doble Diamante
 1. **Descubrir**: datasets propios + datos abiertos de catastro y vivienda.  
 2. **Definir**: necesidades del inversionista → “Detectar propiedades subvaloradas y barrios emergentes.”  
-3. **Desarrollar**: análisis exploratorio (EDA) + heurísticas de behavioral economics.  
+3. **Desarrollar**: ETL, análisis exploratorio (EDA) + heurísticas de behavioral economics.  
 4. **Entregar**: dashboard interactivo con insights accionables.  
 
 ---
@@ -56,9 +56,8 @@ Aplicando **Behavioral Economics + UX**:
 - **Header con filtros rápidos** (perfil, zona, tiempo).  
 - **Top 5 oportunidades** en tarjetas visuales.  
 - **Mapa de calor interactivo** por comuna/barrio.  
-- **Carrusel de propiedades premium recientes**.  
-- **Agentes recomendados con sello de confianza**.  
-- **Panel lateral de insights rápidos** (“📉 Propiedad 20% más barata que su zona”).  
+- **Propiedades premium recientes**.  
+- **Agentes recomendados con sello de confianza**.    
 
 ---
 
@@ -88,7 +87,7 @@ Aplicando **Behavioral Economics + UX**:
 
 ---
 
-## 👥 Equipo
+## 👥 Conocimiento
 - **Research & Data Science**: análisis exploratorio y modelado de oportunidades.  
 - **UX/UI Design**: arquitectura de información, wireframes, prototipado.  
 - **Estrategia BE**: aplicación de Behavioral Economics para optimizar decisiones.  
