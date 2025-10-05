@@ -5,7 +5,7 @@ Este proyecto busca resolver las **asimetrías de información en el sector inmo
 
 - 📊 **Análisis de datos inmobiliarios** (datasets propios y abiertos).  
 - 🧠 **Behavioral Economics** (efecto ancla, escasez, autoridad, heurísticas de decisión).  
-- 🎨 **UX Design** (interfaces simples y visuales que reducen fricción cognitiva).  
+- 🎨 **UX Design** (interfaces Power Bi).  
 
 El objetivo es que los inversionistas puedan **detectar propiedades subvaloradas y barrios emergentes en segundos**, aumentando su confianza y reduciendo riesgos.
 
