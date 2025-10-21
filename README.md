@@ -1,4 +1,4 @@
-# 🏠 PropTech Analytics – Inteligencia Inmobiliaria con UX + Behavioral Economics
+# 🏠 Inteligencia Inmobiliaria con UX + Behavioral Economics
 
 ## 🚀 Descripción del Proyecto
 Este proyecto busca resolver las **asimetrías de información en el sector inmobiliario**, diseñando un **sistema de apoyo a decisiones** que combine:
